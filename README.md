@@ -6,7 +6,7 @@
 Claude-Journalist leverages the power of the Claude 3 AI model to research, write, and edit high-quality articles on any given topic. It utilizes web search APIs to gather relevant information, analyzes the content, and generates well-structured, informative, and engaging articles that read as if they could be published in major media publications.
 
 ## Try it without code!
-If you want to try the AI journalist, but don't want to bother with code, you can use a modified version directly on the [HyperWrite Platform](https://app.hyperwriteai.com/personalassistant/tool/183607bc-a92d-4d7b-9b7d-358b4758b2c0). If you're a first-time user, you will be asked to sign in. Once you do so, come back and click this link again to go directly to the tool.
+"If you want to try the AI journalist, but don't want to bother with code, you can use a modified version directly on the [HyperWrite Platform](https://app.hyperwriteai.com/personalassistant/tool/183607bc-a92d-4d7b-9b7d-358b4758b2c0). If you're a first-time user, you will be asked to sign in. Once you do so, come back and click this link again to go directly to the tool." -Shumer (his readme.md lol this is a cloutjack for basi. basi dw about it.)
 
 ## Workflow
 
