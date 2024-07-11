@@ -1,5 +1,5 @@
 # AI-Journalist
-[![Twitter Follow](https://img.shields.io/twitter/follow/mattshumer_?style=social)](https://twitter.com/mattshumer_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/basedanarki?style=social)](https://twitter.com/basedanarki)
 
 # Claude-Journalist | An experimental AI-powered journalist
 
@@ -47,12 +47,16 @@ This project is licensed under the [MIT License](LICENSE).
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 Some known improvement areas:
+- Update the main one to Claude 3.5 Sonnet ("I'm busy and cba." -Anarki)
+- Make this shit agentic ("Real ones know." -Anarki)
 - Enhance the search result filtering and selection process
 - Implement additional fact-checking and verification mechanisms
 - Optimize the article structure and formatting
 
 ## Contact
 
+Anarki -  [@basedanarki](https://twitter.com/basedanarki)
 Matt Shumer - [@mattshumer_](https://twitter.com/mattshumer_)
 
-Lastly, if you want to try something even cooler than this, sign up for [HyperWrite Personal Assistant](https://app.hyperwriteai.com/personalassistant). It's basically an AI with access to real-time information that a) is incredible at writing naturally, and b) can operate your web browser to complete tasks for you.
+Shumer said this and I'm not a dick but if you're in BASI lol dw about it:
+"Lastly, if you want to try something even cooler than this, sign up for [HyperWrite Personal Assistant](https://app.hyperwriteai.com/personalassistant). It's basically an AI with access to real-time information that a) is incredible at writing naturally, and b) can operate your web browser to complete tasks for you."
