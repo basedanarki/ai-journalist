@@ -56,7 +56,9 @@ Some known improvement areas:
 ## Contact
 
 Anarki -  [@basedanarki](https://twitter.com/basedanarki)
+
 Matt Shumer - [@mattshumer_](https://twitter.com/mattshumer_)
 
 Shumer said this and I'm not a dick but if you're in BASI lol dw about it:
+
 "Lastly, if you want to try something even cooler than this, sign up for [HyperWrite Personal Assistant](https://app.hyperwriteai.com/personalassistant). It's basically an AI with access to real-time information that a) is incredible at writing naturally, and b) can operate your web browser to complete tasks for you."
